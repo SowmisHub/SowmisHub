@@ -34,21 +34,9 @@
      <a href="https://github.com/SowmisHud" target="_blank">
        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
      </a>
-     <a href="https://twitter.com/yourusername" target="_blank">
-       <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-     </a>
-     <a href="mailto:your-email@example.com">
+     <a href="mailto:deepuvram143@gmail.com">
        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
      </a>
-   </p>
-
-   ---
-
-   ### 📊 GitHub Stats
-   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=SowmisHud&show_icons=true&theme=radical" alt="GitHub Stats" />
-     <br>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowmisHud&theme=radical" alt="GitHub Streak" />
    </p>
 
    ---
