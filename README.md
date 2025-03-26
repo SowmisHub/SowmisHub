@@ -1,12 +1,12 @@
    <!-- Sowmika's GitHub Profile -->
 
    <h1 align="center">Hi 👋, I'm Sowmika</h1>
-   <h3 align="center">MA Student | Self-Taught Programmer | Web Developer</h3>
+   <h3 align="center">MCA Student | Self-Taught Programmer | Web Developer</h3>
 
    ---
 
    ### 🚀 About Me
-   - 🎓 I'm an **MA Student** and a **Self-Taught Programmer**
+   - 🎓 I'm an **MCA Student** and a **Self-Taught Programmer**
    - 💻 Passionate about **Web Development & Software Engineering**
    - 🌱 Currently learning **Full-Stack Web Development**
    - 🔥 Working on exciting projects with **JavaScript & Python**
