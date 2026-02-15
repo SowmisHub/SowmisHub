@@ -30,51 +30,49 @@ database-driven applications and clean architecture practices.
 ---
 
 
-## ⚡ Tech Stack
-
-<br>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="70"/>
-
-<br><br>
-
-<b>HTML</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>CSS</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>JavaScript</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>React</b>
-
-<br><br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" width="70"/>
-
-<br><br>
-
-<b>Node.js</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Express</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>MongoDB</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Supabase</b>
-
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="65"/><br><br>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="65"/><br><br>
+      <b>CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="65"/><br><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="65"/><br><br>
+      <b>React</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="65"/><br><br>
+      <b>Express</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br><br>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br><br>
+      <b>Supabase</b>
+    </td>
+  </tr>
+</table>
 </p>
+
 
 
 ## 🚀 Featured Projects
