@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;"
     alt="Typing Animation"
   />
 </p>
@@ -29,7 +29,7 @@ database-driven applications and clean architecture practices.
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2>⚡ Tech Stack</h2>
 
 <div align="center">
 
@@ -83,8 +83,8 @@ database-driven applications and clean architecture practices.
 ## 🚀 Featured Projects
 
 ### 🔹 Time Tracking Web Application  
-🔗 **Live Demo:** https://your-live-link.com  
-📁 **Repository:** https://github.com/SowmisHud/project-link  
+🔗 **Live Demo:** https://sowmishub.github.io/Time-Tracking-Web-Application/  
+📁 **Repository:** https://github.com/SowmisHub/Time-Tracking-Web-Application  
 
 - Secure authentication  
 - Task CRUD operations  
@@ -94,38 +94,31 @@ database-driven applications and clean architecture practices.
 ---
 
 ### 🔹 Blog Platform with Admin Dashboard  
-🔗 **Live Demo:** https://your-live-link.com  
-📁 **Repository:** https://github.com/SowmisHud/project-link  
+🔗 **Live Demo:** https://blog-nestt.vercel.app/ 
+📁 **Repository:** https://github.com/SowmisHub/BlogNestt  
 
 - Admin-based authentication  
 - Blog CRUD functionality  
 - AI-assisted content  
 - Database integration  
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SowmisHud&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmisHud&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:deepuvram143@gmail.com">
+  <a href="mailto:vemulasowmika123@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SowmisHud">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="https://www.linkedin.com/in/vemula-sowmika-7p143/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Turning ideas into scalable digital experiences.</i>
+  <i>Passionate about building clean, functional, and user-friendly web applications.</i>
 </p>
