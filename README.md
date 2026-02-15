@@ -90,7 +90,7 @@ maintainable code and delivering scalable solutions.
 ---
 
 ### 🔹 Blog Platform with Admin Dashboard  
-🔗 **Live Demo:** https://blog-nestt.vercel.app/ 
+🔗 **Live Demo:** https://blog-nestt.vercel.app/ <br>
 📁 **Repository:** https://github.com/SowmisHub/BlogNestt  
 
 - Admin-based authentication  
