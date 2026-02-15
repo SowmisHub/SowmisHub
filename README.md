@@ -31,44 +31,51 @@ database-driven applications and clean architecture practices.
 
 <h2 align="center">⚡ Tech Stack</h2>
 
-<table align="center" border="0" cellspacing="25" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="85"/><br><br>
-      <b>HTML</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="85"/><br><br>
-      <b>CSS</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="85"/><br><br>
-      <b>JavaScript</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="85"/><br><br>
-      <b>React</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="85"/><br><br>
-      <b>Node.js</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="85"/><br><br>
-      <b>Express</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
-      <b>MongoDB</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=supabase" width="85"/><br><br>
-      <b>Supabase</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=html" width="85"/><br><br>
+  <b>HTML</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=css" width="85"/><br><br>
+  <b>CSS</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=js" width="85"/><br><br>
+  <b>JavaScript</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=react" width="85"/><br><br>
+  <b>React</b>
+</div>
+
+<br>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="85"/><br><br>
+  <b>Node.js</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=express" width="85"/><br><br>
+  <b>Express</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
+  <b>MongoDB</b>
+</div>
+
+<div style="display: inline-block; text-align: center; margin: 25px;">
+  <img src="https://skillicons.dev/icons?i=supabase" width="85"/><br><br>
+  <b>Supabase</b>
+</div>
+
+</div>
 
 
 
