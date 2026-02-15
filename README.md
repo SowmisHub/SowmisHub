@@ -4,55 +4,72 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer"
     alt="Typing Animation"
   />
 </p>
 
-<!-- ================= ANIMATION ================= -->
+<!-- ================= GIRL CODING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="Girl Coding"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="Girl Coding Animation"/>
 </p>
 
 <p align="center">
-  Building modern, scalable and performance-driven web applications.
+  <b>Building scalable, secure and beautifully designed web applications.</b>
 </p>
 
 ---
 
 ## 👩‍💻 About
 
-Full Stack Developer experienced in developing responsive user interfaces 
-and secure backend systems. Skilled in API integration, authentication, 
-and database-driven applications with clean and scalable architecture.
+Full Stack Developer skilled in building responsive frontend interfaces 
+and robust backend systems. Experienced in API integration, authentication, 
+database-driven applications and clean architecture practices.
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=html" width="60"/>
-  <img src="https://skillicons.dev/icons?i=css" width="60"/>
-  <img src="https://skillicons.dev/icons?i=js" width="60"/>
-  <img src="https://skillicons.dev/icons?i=react" width="60"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-  <img src="https://skillicons.dev/icons?i=express" width="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-  <img src="https://skillicons.dev/icons?i=supabase" width="60"/>
-
-</p>
-
-<p align="center">
-  <b>HTML</b> &nbsp;&nbsp;&nbsp;
-  <b>CSS</b> &nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b> &nbsp;&nbsp;&nbsp;
-  <b>React</b> &nbsp;&nbsp;&nbsp;
-  <b>Node.js</b> &nbsp;&nbsp;&nbsp;
-  <b>Express</b> &nbsp;&nbsp;&nbsp;
-  <b>MongoDB</b> &nbsp;&nbsp;&nbsp;
-  <b>Supabase</b>
+  <table>
+    <tr align="center">
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" width="65"/><br>
+        <b>HTML</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=css" width="65"/><br>
+        <b>CSS</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js" width="65"/><br>
+        <b>JavaScript</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react" width="65"/><br>
+        <b>React</b>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
+        <b>Node.js</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=express" width="65"/><br>
+        <b>Express</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br>
+        <b>MongoDB</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>
+        <b>Supabase</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -65,7 +82,7 @@ and database-driven applications with clean and scalable architecture.
 
 - Secure authentication  
 - Task CRUD operations  
-- Interactive dashboard  
+- Interactive analytics dashboard  
 - Responsive UI  
 
 ---
@@ -74,7 +91,7 @@ and database-driven applications with clean and scalable architecture.
 🔗 **Live Demo:** https://your-live-link.com  
 📁 **Repository:** https://github.com/SowmisHud/project-link  
 
-- Admin authentication  
+- Admin-based authentication  
 - Blog CRUD functionality  
 - AI-assisted content  
 - Database integration  
@@ -94,7 +111,7 @@ and database-driven applications with clean and scalable architecture.
 
 <p align="center">
   <a href="mailto:deepuvram143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SowmisHud">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
