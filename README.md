@@ -1,26 +1,37 @@
-<!-- HEADER SECTION -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">Sowmika</h1>
+
+<h3 align="center">
+Full Stack Web Developer
+</h3>
+
 <p align="center">
-  <b>Full Stack Web Developer</b> • MCA Graduate • Building Scalable Web Solutions
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Girl Coding Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SowmisHud&label=Profile%20Views&color=0e75b6&style=flat" />
+  Crafting scalable, secure and modern web applications with clean architecture.
 </p>
 
 ---
 
-## 🧠 About
+<!-- ================= ABOUT ================= -->
 
-I design and develop modern, responsive, and secure web applications 
-with a strong focus on clean architecture and performance optimization. 
-My work combines frontend precision with backend reliability to deliver 
-scalable digital solutions.
+## 👩‍💻 About Me
+
+I am a Full Stack Web Developer with strong expertise in building responsive 
+frontend interfaces and robust backend systems. I focus on writing clean, 
+maintainable code and developing scalable applications with modern technologies.
+
+I have hands-on experience in authentication systems, REST API development, 
+database integration, and performance-optimized web solutions.
 
 ---
 
-## ⚡ Core Stack
+<!-- ================= TECH STACK ================= -->
+
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,supabase,git,github,vscode&perline=6" />
@@ -28,70 +39,80 @@ scalable digital solutions.
 
 ---
 
-## 🚀 Selected Projects
+<!-- ================= PROJECTS ================= -->
 
-### 01 — Time Tracking System  
-🔗 **Live:** https://your-live-link.com  
-📁 **Repository:** https://github.com/SowmisHud/project-link  
+## 🚀 Featured Projects
 
-A task management and time analytics application featuring:
-- Secure authentication
-- CRUD operations
-- Interactive dashboard
-- Real-time database integration
-- Clean responsive UI
+### 🔹 Time Tracking Web Application
+<p>
+🔗 <b>Live Demo:</b> https://your-live-link.com <br>
+📁 <b>Repository:</b> https://github.com/SowmisHud/project-link
+</p>
+
+- Secure user authentication
+- Task management (CRUD operations)
+- Interactive analytics dashboard
+- Real-time database handling
+- Responsive UI implementation
 
 ---
 
-### 02 — Blog Platform with Admin Control  
-🔗 **Live:** https://your-live-link.com  
-📁 **Repository:** https://github.com/SowmisHud/project-link  
+### 🔹 Blog Platform with Admin Dashboard
+<p>
+🔗 <b>Live Demo:</b> https://your-live-link.com <br>
+📁 <b>Repository:</b> https://github.com/SowmisHud/project-link
+</p>
 
-A full-featured blogging system with:
 - Admin-based access control
 - Blog CRUD functionality
-- AI-assisted content generation
-- Optimized UI/UX
+- AI-assisted content feature
 - Structured backend integration
+- Optimized user interface
 
 ---
 
-## 📊 Development Activity
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SowmisHud&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmisHud&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SowmisHud&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmisHud&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏗 Engineering Approach
+<!-- ================= DEVELOPMENT APPROACH ================= -->
 
-• Modular & maintainable architecture  
+## 🏗 Development Approach
+
+• Clean & modular architecture  
 • REST API development  
 • Authentication & secure routing  
 • Version control with structured commits  
-• Clean UI & responsive design principles  
-• Scalable database integration  
+• Responsive & accessible UI design  
+• Scalable database management  
 
 ---
 
-## 🤝 Connect
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:deepuvram143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SowmisHud">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Crafting scalable web applications with modern technologies.</i>
+  <i>Focused on building impactful digital solutions with modern technologies.</i>
 </p>
