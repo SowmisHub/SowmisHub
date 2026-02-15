@@ -23,9 +23,10 @@
 
 ## 👩‍💻 About
 
-Full Stack Developer skilled in building responsive frontend interfaces 
-and robust backend systems. Experienced in API integration, authentication, 
-database-driven applications and clean architecture practices.
+Detail-oriented Full Stack Web Developer with strong fundamentals in frontend and backend development. 
+Experienced in building responsive web applications, implementing authentication systems, 
+developing RESTful APIs, and integrating databases. Passionate about writing clean, 
+maintainable code and delivering scalable solutions.
 
 ---
 
