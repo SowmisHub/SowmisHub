@@ -29,49 +29,47 @@ database-driven applications and clean architecture practices.
 
 ---
 
-
 <h2 align="center">⚡ Tech Stack</h2>
 
-<p align="center">
-<table align="center">
+<table align="center" border="0" cellspacing="25" cellpadding="0">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="85"/><br><br>
       <b>HTML</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="85"/><br><br>
       <b>CSS</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="85"/><br><br>
       <b>JavaScript</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="85"/><br><br>
       <b>React</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="85"/><br><br>
       <b>Node.js</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="85"/><br><br>
       <b>Express</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
       <b>MongoDB</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="85"/><br><br>
       <b>Supabase</b>
     </td>
   </tr>
 </table>
-</p>
+
 
 
 
