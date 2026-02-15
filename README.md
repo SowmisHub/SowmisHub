@@ -4,42 +4,55 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer"
     alt="Typing Animation"
   />
 </p>
 
-<!-- ================= LOTTIE ANIMATION ================= -->
+<!-- ================= ANIMATION ================= -->
 
 <p align="center">
-  <iframe 
-    src="https://lottie.host/embed/8bbdba9e-7fcb-4f1b-9e91-27d92a5cb6c1/3vbOcw.json" 
-    width="350" 
-    height="350" 
-    style="border:none;">
-  </iframe>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="Girl Coding"/>
 </p>
 
 <p align="center">
-  Designing modern, scalable and performance-driven web applications.
+  Building modern, scalable and performance-driven web applications.
 </p>
 
 ---
 
 ## 👩‍💻 About
 
-Full Stack Developer skilled in building responsive front-end interfaces 
-and secure backend systems. Strong experience in API integration, 
-authentication workflows, and database-driven applications with clean architecture.
-
-Focused on delivering efficient, scalable, and user-centric digital solutions.
+Full Stack Developer experienced in developing responsive user interfaces 
+and secure backend systems. Skilled in API integration, authentication, 
+and database-driven applications with clean and scalable architecture.
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase&perline=4" />
+
+  <img src="https://skillicons.dev/icons?i=html" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react" width="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+  <img src="https://skillicons.dev/icons?i=express" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+  <img src="https://skillicons.dev/icons?i=supabase" width="60"/>
+
+</p>
+
+<p align="center">
+  <b>HTML</b> &nbsp;&nbsp;&nbsp;
+  <b>CSS</b> &nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b> &nbsp;&nbsp;&nbsp;
+  <b>React</b> &nbsp;&nbsp;&nbsp;
+  <b>Node.js</b> &nbsp;&nbsp;&nbsp;
+  <b>Express</b> &nbsp;&nbsp;&nbsp;
+  <b>MongoDB</b> &nbsp;&nbsp;&nbsp;
+  <b>Supabase</b>
 </p>
 
 ---
@@ -52,7 +65,7 @@ Focused on delivering efficient, scalable, and user-centric digital solutions.
 
 - Secure authentication  
 - Task CRUD operations  
-- Real-time analytics dashboard  
+- Interactive dashboard  
 - Responsive UI  
 
 ---
@@ -61,9 +74,9 @@ Focused on delivering efficient, scalable, and user-centric digital solutions.
 🔗 **Live Demo:** https://your-live-link.com  
 📁 **Repository:** https://github.com/SowmisHud/project-link  
 
-- Admin-based authentication  
+- Admin authentication  
 - Blog CRUD functionality  
-- AI-assisted content generation  
+- AI-assisted content  
 - Database integration  
 
 ---
@@ -81,13 +94,10 @@ Focused on delivering efficient, scalable, and user-centric digital solutions.
 
 <p align="center">
   <a href="mailto:deepuvram143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SowmisHud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
