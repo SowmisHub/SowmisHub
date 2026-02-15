@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Sowmika</h1>
+<h1 align="center">Vemula Sowmika</h1>
 
 <p align="center">
   <img 
