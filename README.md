@@ -2,12 +2,22 @@
 
 <h1 align="center">Sowmika</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications" />
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications" 
+    alt="Typing Animation"
+  />
+</p>
+
+<!-- ================= LOTTIE ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://assets4.lottiefiles.com/packages/lf20_3vbOcw.json" width="350"/>
+  <iframe 
+    src="https://lottie.host/embed/8bbdba9e-7fcb-4f1b-9e91-27d92a5cb6c1/3vbOcw.json" 
+    width="350" 
+    height="350" 
+    style="border:none;">
+  </iframe>
 </p>
 
 <p align="center">
@@ -16,19 +26,15 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
 ## 👩‍💻 About
 
-Full Stack Developer experienced in building responsive user interfaces 
-and secure backend systems. Strong understanding of API integration, 
-authentication systems, database management, and clean code architecture.
+Full Stack Developer skilled in building responsive front-end interfaces 
+and secure backend systems. Strong experience in API integration, 
+authentication workflows, and database-driven applications with clean architecture.
 
-Focused on delivering efficient, scalable and user-centric web solutions.
+Focused on delivering efficient, scalable, and user-centric digital solutions.
 
 ---
-
-<!-- ================= SKILLS ================= -->
 
 ## ⚡ Tech Stack
 
@@ -36,20 +42,7 @@ Focused on delivering efficient, scalable and user-centric web solutions.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase&perline=4" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
 ---
-
-<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
@@ -75,8 +68,6 @@ Focused on delivering efficient, scalable and user-centric web solutions.
 
 ---
 
-<!-- ================= STATS ================= -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -86,18 +77,16 @@ Focused on delivering efficient, scalable and user-centric web solutions.
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:vemulasowmika123@gmail.com">
+  <a href="mailto:deepuvram143@gmail.com">
     <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SowmisHud">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vemula-sowmika-7p143/">
+  <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
